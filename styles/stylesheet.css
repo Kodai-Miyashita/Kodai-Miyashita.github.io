@@ -1,0 +1,22 @@
+.titleWBS {
+  font-family:"Avenir Next";
+  font-size:32px;
+  height:40px;
+  width:700px;
+  padding:5px 10px;
+  margin-left:20px;
+  margin-bottom:20px;
+  border-bottom:2px double black;
+}
+
+.operateList {
+  font-family:"Avenir Next";
+  font-size:14px;
+  height:60px;
+  width:700px;
+  padding:1px 10px;
+  margin-left:20px;
+  margin-bottom:20px;
+  border:2px dashed black;
+}
+
