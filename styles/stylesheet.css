@@ -1,5 +1,8 @@
-.titleWBS {
+body {
   font-family:"Avenir Next";
+}
+
+.titleWBS {
   font-size:32px;
   height:40px;
   width:700px;
@@ -10,7 +13,6 @@
 }
 
 .operateList {
-  font-family:"Avenir Next";
   font-size:14px;
   height:60px;
   width:700px;
@@ -18,5 +20,27 @@
   margin-left:20px;
   margin-bottom:20px;
   border:2px dashed black;
+}
+
+.topList {
+  float:left;
+  width:700px;
+  margin-top:1px;
+}
+
+.topList input {
+  width:70px;
+}
+
+
+.taskList {
+  background-color:#000080;
+  font-size:12px;
+  color:#FFF;
+  height:100px;
+  width:800px;
+  padding:5px 10px;
+  margin-left:20px;
+  margin-bottom:20px;
 }
 
